@@ -218,7 +218,7 @@ We provide verification only for the processing of source data on the Customer J
 
 **7) View Exported Document**  
 
-<img src="assets/images/jupyter_notebook/7.png" alt="jupyter_csv_view" style="border: 0.5px solid black;"/>  
+<img src="assets/images/jupyter_notebook/7.1.png" alt="jupyter_csv_view" style="border: 0.5px solid black;"/>  
 
 ### Visualization
 
