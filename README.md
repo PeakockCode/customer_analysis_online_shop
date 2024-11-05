@@ -314,7 +314,7 @@ Positive sentiment dominates with 275 reviews, reflecting a generally satisfied 
 - **Opportunity for Improvement:**  
 The existence of both positive and negative sentiments indicates that there are chances to transform these mixed experiences into more distinctly positive ones, which could enhance overall ratings. By tackling the specific issues highlighted in the mixed reviews, customer satisfaction could be improved.  
 
-<img src="assets/images/findings/3.png" alt="Customer Feedback Analysis" style="border: 0.5px solid black;"/>  
+<img src="assets/images/findings/4.png" alt="Customer Feedback Analysis" style="border: 0.5px solid black;"/>  
 
 ### Conclusion
 
