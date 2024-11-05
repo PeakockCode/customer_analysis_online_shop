@@ -5,9 +5,12 @@
 
 ## Table of Contents
 
-- [Intention](#intention)
-  - [Goal](#goal)
-  - [Solution Idea](#solution-idea)
+- [Business Problem](#business-problem)
+  - [Story](#story)
+  - [Key Points](#key-points)
+- [Solution Idea](#solution-idea)
+  - [Key Performance Indicators](#key-performance-indicators)
+  - [Goals](#goals)
 - [Data origin](#data-origin)
 - [Project Steps](#project-steps)
 - [Dashboard Design](#dashboard-design)
