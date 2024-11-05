@@ -56,7 +56,7 @@ The necessary data to create a dashboard that highlights key areas and supports 
 ### Project Steps
 - Design
 - Project Development
-- Data cleaning and testing
+- Data cleaning and preparation
 - Visualization
 - Analysis and Findings
 - Conclusion
@@ -104,16 +104,20 @@ Tools required for the Process
 - Data Acquisition: Gather the data supplied by the client.
 - Data Exploration: Analyze the data in Excel to understand its structure and general quality.
 . Data Loading: Import the data into SQL Server for further processing.
-- Data Cleaning and Testing: Employ SQL queries to cleanse and standardize the data, addressing issues such as blank spaces, null values, and duplicates.
+- Data Cleaning and Preparation: Employ SQL queries to cleanse and standardize the data, addressing issues such as blank spaces, null values, and duplicates.
 - Data Visualization: Create visual representations of the data in Power BI or other visualization tools.
 - Insights Formulation: Derive findings and conclusions based on the visualized data.
 - Documentation: Create documentation to support the final findings.
 - Sharing: Present the completed visualizations, recommendations, and documentation to the marketing department.
 - Feedback: Collect feedback from the marketing department (client) and implement any necessary adjustments to the project. This typically requires revisiting earlier steps and should be integrated into every phase of the process.
 
-### Data cleaning and testing
+### Data Cleaning and Preparation
 
 ### Visualization
+
+#### Data Visualization
+
+#### DAX Measures
 
 ### Analysis and Findings
 
