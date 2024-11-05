@@ -279,7 +279,16 @@ While the average rating remains stable, it falls short of the target of 4.0, in
 
 #### Lower Conversion Rates
 
-![YouTube image](assets/images/presentation/5.png)
+- **General Conversion Trend:**  
+Throughout the year, conversion rates varied, with the highest numbers of products converting most effectively in January and September. Especially January is the most prominent month over the targeted years. We also observed a higher conversion rate in July and December, likely due to seasonal peaks during the summer and the Christmas holidays for some products. While some products experienced strong seasonal peaks, there is potential to improve conversions in lower-performing months through targeted actions.
+
+- **Lowest Conversion Month:**  
+May experienced the lowest conversion rate, approximately 4.5%, with no products notably excelling in conversion. This suggests a possible need to re-evaluate our marketing strategies or promotions during this time to enhance our performance.
+
+- **Highest Conversion Rates:**  
+January achieved the highest overall conversion rate of 19.6%, largely thanks to the Ski Boots, which boasted an impressive conversion rate of 150%. This reflects a robust beginning to the year, likely driven by seasonal demand and successful marketing efforts. It may be worthwhile to consider adding more winter skiing equipment to further support sales during these months, given the strong performance of the Ski Boots.  
+
+<img src="assets/images/findings/2.png" alt="Conversion Rate comparison" style="border: 0.5px solid black;"/>  
 
 #### Reduced Customer Engagement
 
