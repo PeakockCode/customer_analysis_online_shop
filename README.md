@@ -163,6 +163,8 @@ The cleaned data should meet these standards and constraints:
 
 #### Data Cleaning and Preparation in SQL
 
+We provide verification only for the processing of source data on the Customer Journey, as it was not necessary for the others.  
+
 **Customer Journey - Verification Data**
 
 <img src="assets/images/sql/verification/customer_journey.png" alt="customer_journey_verification" style="border: 0.5px solid black;"/>
