@@ -1,8 +1,3 @@
-
-# MARKETING ANALYTICS PROJECT
-
-
-
 ![company logo](assets/images/heading/1.png)
 
 <h1 style="text-align: center;">Customer Conversion and Engagement Analysis</h1> 
