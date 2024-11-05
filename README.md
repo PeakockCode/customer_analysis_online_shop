@@ -2,6 +2,32 @@
 ## Customer Conversion and Engagement Analysis - Online Shop Twentytems
 ![company logo](assets/images/heading/1.png)
 
+## Table of Contents
+
+- [Intention](#intention)
+  - [Goal](#goal)
+  - [Solution Idea](#solution-idea)
+- [Data origin](#data-origin)
+- [Project Steps](#project-steps)
+- [Dashboard Design](#dashboard-design)
+  - [Required Dashboard Elements](#required-dashboard-elements)
+  - [Dashboard Visualization](#dashboard-visualization)
+  - [Tools requirements](#tools-requirements)
+- [Project building - General Workflow](#project-building---general-workflow)
+- [Data exploration](#data-exploration)
+- [Data cleaning and testing](#data-cleaning-and-testing)
+  - [Data cleaning and preparation](#data-cleaning-and-preparation)
+  - [Data testing](#data-testing)
+- [Visualization](#visualization)
+  - [Data Visualization](#data-visualization)
+  - [Measures](#measures)
+- [Analysis](#analysis)
+  - [Results overview](#results-overview)
+  - [Scenarios ](#scenarios)
+- [Conclusion](#conclusion)
+  - [Findings](#findings)
+  - [Recommendations](#recommendations)  
+
 ### Business Problem
 
 #### Story:  
