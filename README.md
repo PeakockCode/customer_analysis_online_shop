@@ -69,8 +69,11 @@ The data visuals suitable for answering our questions include:
 tables, scorecards (e.g., conversion rate, engagement metrics), bar charts, line charts, and other visualizations such as scatter plots.
 
 **Dashboard Mockup**  
-As an example, we provide just a sample design of the overview dashboard.
-![mockup](assets/images/dashboard/mockup.png)
+
+As an example, we provide just a sample design of the overview dashboard.  
+
+<img src="assets/images/dashboard/mockup.png" alt="mockup" style="border: 0.5px solid black;"/>
+
 
 #### Tools requirements
 Tools required for the Process
