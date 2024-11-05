@@ -193,7 +193,7 @@ We provide verification only for the processing of source data on the Customer J
 <img src="assets/images/sql/final_selection/products1.png" alt="products" style="border: 0.5px solid black;"/>  
 
 
-#### Data Enrichment in Python - sentiment analysis
+#### Data Enrichment in Python - Sentiment Analysis
 
 **1) Import Source Data and Pandas Library**  
 
