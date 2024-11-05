@@ -1,7 +1,6 @@
 
 # MARKETING ANALYTICS PROJECT
 
-<h2 style="text-align: center;">Customer Conversion and Engagement Analysis</h2>
 <h2 style="text-align: center;">Online Shop Twentytems</h2> 
 
 ![company logo](assets/images/heading/1.png)
