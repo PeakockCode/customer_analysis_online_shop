@@ -84,14 +84,14 @@ The necessary data to create a dashboard that highlights key areas and supports 
 - engagement data
 
 ### Project Steps
-- Design
+- Dashboard Design
 - Project Development
 - Data Cleaning and Preparation
 - Visualization
 - Analysis and Findings
 - Conclusion
 
-### Design
+### Dashboard Design
 
 #### Dashboard Visualization
 
