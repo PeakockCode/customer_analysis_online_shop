@@ -163,19 +163,29 @@ The cleaned data should meet these standards and constraints:
 
 #### Data Cleaning and Preparation in SQL
 
-**Customer Journey**  
+**Customer Journey - Verification Data**
 
+<img src="assets/images/sql/verification/customer_journey.png" alt="customer_journey_verification" style="border: 0.5px solid black;"/>
 
-**Customer Reviews**  
+**Customer Journey - Final Selection**
 
+<img src="assets/images/sql/final_selection/customer_journey.png" alt="customer_journey_selection" style="border: 0.5px solid black;"/>
 
-**Customer Geography**  
+**Customer Reviews  - Final Selection**  
 
+<img src="assets/images/sql/final_selection/customer_reviews.png" alt="customer_reviews_selection" style="border: 0.5px solid black;"/>
 
-**Engagement Data**  
+**Customer Geography  - Final Selection**  
 
+<img src="assets/images/sql/final_selection/customer_geography.png" alt="customer_geography_selection" style="border: 0.5px solid black;"/>
 
-**Products**  
+**Engagement Data  - Final Selection**  
+
+<img src="assets/images/sql/final_selection/engagement_data.png" alt="engagement_data_selection" style="border: 0.5px solid black;"/>
+
+**Products  - Final Selection**  
+
+<img src="assets/images/sql/final_selection/products.png" alt="products" style="border: 0.5px solid black;"/>
 
 
 #### Data Enrichment in Python - sentiment analysis
