@@ -55,7 +55,7 @@ The necessary data to create a dashboard that highlights key areas and supports 
 
 ### Project Steps
 - Design
-- Project building
+- Project Development
 - Data cleaning and testing
 - Visualization
 - Analysis
@@ -71,7 +71,47 @@ tables, scorecards (e.g., conversion rate, engagement metrics), bar charts, line
 **Dashboard Mockup** 
 As an example, we provide just a sample design of the overview dashboard.  
 
+#### Tools requirements
+Tools required for the Process
 
+<table>
+  <tr>
+    <th style="text-align: center;">Tool</th>
+    <th style="text-align: center;">Reason</th>
+  </tr>
+  <tr>
+    <td style="text-align: left;">MS Excel</td>
+    <td style="text-align: left;">Data exploration</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">MS SQL Server</td>
+    <td style="text-align: left;">Data cleaning, preparation and testing</td>
+  </tr>
+    <tr>
+    <td style="text-align: left;">Jupyter Lab</td>
+    <td style="text-align: left;">Sentiment analysis</td>
+  </tr>
+    <tr>
+    <td style="text-align: left;">Power BI</td>
+    <td style="text-align: left;">Data visualization</td>
+  </tr>
+</table>
+
+### Project Development
+
+**What is the overall process for creating the solution?**  
+
+- Data Acquisition: Gather the data supplied by the client.
+- Data Exploration: Analyze the data in Excel to understand its structure and general quality.
+. Data Loading: Import the data into SQL Server for further processing.
+- Data Cleaning and Testing: Employ SQL queries to cleanse and standardize the data, addressing issues such as blank spaces, null values, and duplicates.
+- Data Visualization: Create visual representations of the data in Power BI or other visualization tools.
+- Insights Formulation: Derive findings and conclusions based on the visualized data.
+- Documentation: Create documentation to support the final findings.
+- Sharing: Present the completed visualizations, recommendations, and documentation to the marketing department.
+- Feedback: Collect feedback from the marketing department (client) and implement any necessary adjustments to the project. This typically requires revisiting earlier steps and should be integrated into every phase of the process.
+
+### Data cleaning and testing
 
 ### Overview 2024
 
