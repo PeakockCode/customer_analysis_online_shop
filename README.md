@@ -222,7 +222,7 @@ The cleaned data should meet these standards and constraints:
 
 #### Data Visualization  
 
-The Power BI dashboard displays an Overview, Conversion Rate Details, Social Media Insights, and Customer Review Details.  
+The Power BI dashboards include separate views for each area: Overview, Conversion Rate Details, Social Media Insights, and Customer Review Details.  
 
 - **Overview**  
 
