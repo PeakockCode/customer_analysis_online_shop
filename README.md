@@ -1,5 +1,5 @@
 # MARKETING ANALYTICS PROJECT
-## Customer Conversion and Engagement Analysis - online shop Twentytems
+## Customer Conversion and Engagement Analysis - Online Shop Twentytems
 ![YouTube image](assets/images/heading/1.png)
 
 ### Business Problem
@@ -60,6 +60,18 @@ The necessary data to create a dashboard that highlights key areas and supports 
 - Visualization
 - Analysis
 - Conclusion
+
+### Design
+
+#### Dashboard Visualization
+
+The data visuals suitable for answering our questions include:  
+tables, scorecards (e.g., conversion rate, engagement metrics), bar charts, line charts, and other visualizations such as scatter plots.
+
+**Dashboard Mockup** 
+As an example, we provide just a sample design of the overview dashboard.  
+
+
 
 ### Overview 2024
 
