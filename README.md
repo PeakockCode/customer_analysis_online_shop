@@ -144,6 +144,44 @@ Tools required for the Process
 
 ### Data Cleaning and Preparation
 
+The goal is to refine our dataset to ensure it is well-organized and ready for analysis.  
+
+The cleaned data should meet these standards and constraints:  
+
+- Retain only the necessary columns.
+- Eliminate any duplicate entries within the relevant columns.
+- Standardize the data by renaming columns, ensuring clear identifiers, etc.
+- Ensure each column’s data type is appropriate for the content it holds.
+- No column should contain null or blank values.
+  
+**Steps for Data Cleaning, Modification, and Export to the Required Format:**
+
+- Remove duplicates
+- Standardize the data
+- Eliminate null or blank values
+- Remove unnecessary columns
+
+#### Data Cleaning and Preparation in SQL
+
+**Customer Journey**  
+
+
+**Customer Reviews**  
+
+
+**Customer Geography**  
+
+
+**Engagement Data**  
+
+
+**Products**  
+
+
+#### Data Enrichment in Python - sentiment analysis
+
+
+
 ### Visualization
 
 #### Data Visualization
