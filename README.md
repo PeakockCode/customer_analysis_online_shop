@@ -185,7 +185,7 @@ The cleaned data should meet these standards and constraints:
 
 **Products  - Final Selection**  
 
-<img src="assets/images/sql/final_selection/products.png" alt="products" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/final_selection/products1.png" alt="products" style="border: 0.5px solid black;"/>
 
 
 #### Data Enrichment in Python - sentiment analysis
