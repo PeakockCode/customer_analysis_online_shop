@@ -1,9 +1,12 @@
 
 # MARKETING ANALYTICS PROJECT
 
-<h2 style="text-align: center;">Online Shop Twentytems</h2> 
+
 
 ![company logo](assets/images/heading/1.png)
+
+<h1 style="text-align: center;">Customer Conversion and Engagement Analysis</h1> 
+<h2 style="text-align: center; color: #0378A6;">Online Shop Twentytems</h2> 
 
 ## Table of Contents
 
