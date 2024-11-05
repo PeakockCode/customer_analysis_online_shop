@@ -263,7 +263,19 @@ We present only selected, more complex DAX (Power BI) measures.
 
 #### Overview 2024
 
-![YouTube image](assets/images/presentation/4.png)
+- **Lower Conversion Rates:**  
+The conversion rate showed a strong recovery in December, reaching 10.3%, despite a notable dip to 5.1% in October. It is also important to point out that there is a notable drop in comparison to the targeted years, with the average conversion rate in 2022 being almost 11.6%, a decline to 8.55% in 2023, and a continued drop to 8.48% this year.
+
+- **Reduced Customer Engagement:**  
+There is a drop in overall social media engagement, with all engagement metrics decreasing throughout the second half of the year.
+While clicks and likes are low compared to views, the click-through rate stands at 15.37%, meaning that engaged users are still interacting effectively. Additionally, compared to the previous year, we are seeing an absolute increase in all mentioned metrics.  
+
+- **Consistent Customer Feedback:**  
+Customer ratings have stayed steady, with an average of approximately 3.7 over the course of the year.
+While the average rating remains stable, it falls short of the target of 4.0, indicating a need to focus on customer satisfaction, especially for products rated below 3.5.
+
+<img src="assets/images/findings/1.png" alt="Overview" style="border: 0.5px solid black;"/>  
+
 
 #### Lower Conversion Rates
 
