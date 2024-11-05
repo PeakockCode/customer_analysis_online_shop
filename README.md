@@ -44,7 +44,7 @@ To provide the marketing department with data-driven insights, we need to define
 
 ### Data Origin
 
-The data will be provided by the client, specifically the marketing department of the online shop Twentytems. This includes information from various sources, such as customer reviews, social media comments, and campaign performance metrics.
+The data will be provided by the client, specifically the marketing department of our online shop Twentytems. This includes information from various sources, such as customer reviews, social media comments, and campaign performance metrics.
 
 **What data sets are required to achieve our goals?**
 
@@ -68,7 +68,7 @@ The necessary data to create a dashboard that highlights key areas and supports 
 The data visuals suitable for answering our questions include:  
 tables, scorecards (e.g., conversion rate, engagement metrics), bar charts, line charts, and other visualizations such as scatter plots.
 
-**Dashboard Mockup** 
+**Dashboard Mockup**  
 As an example, we provide just a sample design of the overview dashboard.  
 
 #### Tools requirements
