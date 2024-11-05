@@ -1,5 +1,6 @@
-# MARKETING ANALYTICS PROJECT
-## Customer Conversion and Engagement Analysis - Online Shop Twentytems
+<h1 style="text-align: center;">MARKETING ANALYTICS PROJECT</h1>
+<h1 style="text-align: center;">Customer Conversion and Engagement Analysis</h1>
+<h1 style="text-align: center;">Online Shop Twentytems</h1> 
 ![company logo](assets/images/heading/1.png)
 
 ## Table of Contents
