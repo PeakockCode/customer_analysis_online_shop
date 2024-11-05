@@ -243,6 +243,20 @@ The Power BI dashboards include separate views for each area: Overview, Conversi
 
 #### DAX Measures
 
+We present only selected, more complex DAX (Power BI) measures.  
+
+- Conversion Rate  
+
+<img src="assets/images/dax_measures/Conversion Rate.png" alt="Conversion Rate" style="border: 0.5px solid black;"/>  
+
+- Proportion of Positive Reviews  
+
+<img src="assets/images/dax_measures/Proportion of Positive Reviews.png" alt="Proportion of Positive Reviews" style="border: 0.5px solid black;"/>  
+
+- Proportion of Negative Reviews  
+
+<img src="assets/images/dax_measures/Proportion of Negative Reviews.png" alt="Proportion of Negative Reviews" style="border: 0.5px solid black;"/>  
+
 ### Analysis and Findings
 
 #### Overview 2024
