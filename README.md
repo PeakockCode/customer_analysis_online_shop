@@ -185,12 +185,38 @@ The cleaned data should meet these standards and constraints:
 
 **Products  - Final Selection**  
 
-<img src="assets/images/sql/final_selection/products1.png" alt="products" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/final_selection/products1.png" alt="products" style="border: 0.5px solid black;"/>  
 
 
 #### Data Enrichment in Python - sentiment analysis
 
+**1) Import Source Data and Pandas Library**  
 
+<img src="assets/images/jupyter_notebook/1.png" alt="jupyter_import" style="border: 0.5px solid black;"/>  
+
+**2) Import NLTK Library and Initialize the Analyzer Tool**  
+
+<img src="assets/images/jupyter_notebook/2.png" alt="jupyter_import_and_init" style="border: 0.5px solid black;"/>  
+
+**3) Test the Analyzer Tool**  
+
+<img src="assets/images/jupyter_notebook/3.png" alt="jupyter_test_analyzer" style="border: 0.5px solid black;"/>  
+
+**4) Define Functions for Sentiment Analysis**  
+
+<img src="assets/images/jupyter_notebook/4.png" alt="jupyter_define_functions" style="border: 0.5px solid black;"/>  
+
+**5) Apply Sentiment Analysis Functions**  
+
+<img src="assets/images/jupyter_notebook/5.png" alt="jupyter_apply_functions" style="border: 0.5px solid black;"/>  
+
+**6) Export Results to CSV**  
+
+<img src="assets/images/jupyter_notebook/6.png" alt="jupyter_export" style="border: 0.5px solid black;"/>  
+
+**7) View Exported Document**  
+
+<img src="assets/images/jupyter_notebook/7.png" alt="jupyter_csv_view" style="border: 0.5px solid black;"/>  
 
 ### Visualization
 
