@@ -220,7 +220,26 @@ The cleaned data should meet these standards and constraints:
 
 ### Visualization
 
-#### Data Visualization
+#### Data Visualization  
+
+The Power BI dashboard displays an Overview, Conversion Rate Details, Social Media Insights, and Customer Review Details.  
+
+- **Overview**  
+
+<img src="assets/images/dashboard/overview.png" alt="Overview" style="border: 0.5px solid black;"/>  
+
+- **Conversion Rate Details**  
+
+<img src="assets/images/dashboard/conversion_rate.png" alt="Conversion Rate Details" style="border: 0.5px solid black;"/>  
+
+- **Social Media Details**
+
+<img src="assets/images/dashboard/social_media.png" alt="Social Media Details" style="border: 0.5px solid black;"/>  
+
+- **Customer Review Details**
+
+<img src="assets/images/dashboard/customer_review.png" alt="Customer Review Details" style="border: 0.5px solid black;"/>  
+
 
 #### DAX Measures
 
