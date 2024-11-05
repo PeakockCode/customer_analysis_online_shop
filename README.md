@@ -30,7 +30,7 @@
   - [Reduced Customer Engagement](#reduced-customer-engagement)
   - [Consistent Customer Feedback](#consistent-customer-feedback)
 - [Conclusion](#conclusion)
-  - [Findings](#findings)
+  - [Goals Summary](#goals-summary)
   - [Recommendations](#recommendations)  
 
 ### Business Problem
@@ -341,7 +341,7 @@ The existence of both positive and negative sentiments indicates that there are 
 
 These goals collectively aim to enhance the overall customer experience and drive business growth.  
 
-#### Strategies
+#### Recommendations
 
 ##### Boost Conversion Rates:
 
