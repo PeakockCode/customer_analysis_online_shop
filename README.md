@@ -58,7 +58,7 @@ The necessary data to create a dashboard that highlights key areas and supports 
 - Project Development
 - Data cleaning and testing
 - Visualization
-- Analysis
+- Analysis and Findings
 - Conclusion
 
 ### Design
@@ -113,15 +113,26 @@ Tools required for the Process
 
 ### Data cleaning and testing
 
-### Overview 2024
+### Visualization
 
+### Analysis and Findings
+
+#### Overview 2024
 
 ![YouTube image](assets/images/presentation/4.png)
 
+#### Lower Conversion Rates
+
 ![YouTube image](assets/images/presentation/5.png)
+
+#### Reduced Customer Engagement
 
 ![YouTube image](assets/images/presentation/6.png)
 
+#### Consistent Customer Feedback
+
 ![YouTube image](assets/images/presentation/7.png)
+
+### Conclusion
 
 ![YouTube image](assets/images/presentation/8.png)
