@@ -2,7 +2,7 @@
 ## Customer Conversion and Engagement Analysis - online shop Twentytems
 ![YouTube image](assets/images/heading/1.png)
 
-### Intension - Business Problem
+### Business Problem
 
 #### Story:  
 Part of our company, the online shop Twentytems, is experiencing a decline in completed purchases. Despite launching several new online marketing campaigns, the conversion rate continues to decrease. The marketing department is reaching out to us for assistance in conducting a detailed analysis to identify areas for improvement in their marketing strategies.
@@ -42,7 +42,24 @@ To provide the marketing department with data-driven insights, we need to define
 - Associated KPI: Customer Feedback Score.
 - Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
+### Data Origin
 
+The data will be provided by the client, specifically the marketing department of the online shop Twentytems. This includes information from various sources, such as customer reviews, social media comments, and campaign performance metrics.
+
+**What data sets are required to achieve our goals?**
+
+The necessary data to create a dashboard that highlights key areas and supports the marketing department in making informed decisions includes:   
+- customer journey data
+- customer reviews data
+- engagement data
+
+### Project Steps
+- Design
+- Project building
+- Data cleaning and testing
+- Visualization
+- Analysis
+- Conclusion
 
 ### Overview 2024
 
