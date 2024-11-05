@@ -292,12 +292,63 @@ January achieved the highest overall conversion rate of 19.6%, largely thanks to
 
 #### Reduced Customer Engagement
 
-![YouTube image](assets/images/presentation/6.png)
+- **Declining Views:**  
+The number of views steadily increased throughout 2024, peaking in March and May. Unfortunately, after the end of August, we experienced a gradual decline, during which we were unable to approach the 200,000 views mark (except for September).  This reflects a significant decrease in audience engagement during the last third of the year.  
+
+- **Low Interaction Rates:**  
+Clicks and likes have consistently been low in relation to views, indicating a need for more compelling content or more effective calls to action.  
+
+- **Content Type Performance:**  
+The blog content generated the highest number of views, particularly in March, May, and August. Social media and video content reached high levels in January (for both social media and video content) and in March and August (for social media only). On the other hand, it is evident that in the first half of the year, videos maintained a stable number of views, and overall, all content types were highly sought after during that period. Unfortunately, this cannot be said for the period following the summer holidays. Since then, there has been a continuous decline in views across all content. All of this indicates that marketing needs to post more compelling content or reconsider more effective ways to engage the audience.  
+
+<img src="assets/images/findings/3.png" alt="Engagement Rate comparison" style="border: 0.5px solid black;"/>  
 
 #### Consistent Customer Feedback
 
-![YouTube image](assets/images/presentation/7.png)
+- **Customer Ratings Distribution:**  
+Most customer reviews fall within the higher rating categories, featuring 135 reviews at 5 stars and 140 reviews at 4 stars, suggesting generally favorable feedback. In contrast, lower ratings (1 and 2 stars) represent a smaller share, with 57 reviews at 2 stars and 26 reviews at 1 star. The third largest number of customer reviews (88) reflects a neutral perspective, rated at 3 stars. Notably, the percentage of negative reviews has gradually increased, from 14.32% in 2022 to 18.61% in 2024. In contrast, the percentage of positive reviews has remained steady over the targeted period.  
+
+- **Sentiment Analysis:**  
+Positive sentiment dominates with 275 reviews, reflecting a generally satisfied customer base. Negative sentiment is present in 82 reviews. Smaller number of slightly positive or negative sentiments, suggesting some areas for improvement, but overall, very strong customer approval. It is certainly interesting that the sentiment text analysis categorized one of the 2-star reviews as slightly negative, suggesting an opportunity to analyze this and similar reviews to identify potential improvements in customer satisfaction.
+
+- **Opportunity for Improvement:**  
+The existence of both positive and negative sentiments indicates that there are chances to transform these mixed experiences into more distinctly positive ones, which could enhance overall ratings. By tackling the specific issues highlighted in the mixed reviews, customer satisfaction could be improved.  
+
+<img src="assets/images/findings/3.png" alt="Customer Feedback Analysis" style="border: 0.5px solid black;"/>  
 
 ### Conclusion
 
-![YouTube image](assets/images/presentation/8.png)
+#### Goals
+
+##### Boost Conversion Rates:
+
+- Goal: Identify factors impacting the conversion rate and offer suggestions for enhancement.  
+- Insight: Highlight critical points in the customer journey where visitors tend to abandon the process and recommend strategies to refine the conversion funnel.  
+
+##### Enhance Customer Engagement:
+
+- Goal: Determine which types of content generate the highest engagement.  
+- Insight: Analyze interaction rates across various marketing content formats to develop more effective content strategies.
+
+##### Improve Customer Feedback Scores
+
+- Goal: Understand common themes in customer reviews and provide recommendations.  
+- Insight: Identify recurring positive and negative feedback to guide product and service improvements.
+
+#### Strategies
+
+##### Boost Conversion Rates:
+- **Focus on High-Performing Product Categories:** Direct marketing resources toward products that have shown strong conversion rates, including Ski Boots, Kayaks, Surfboards, and other items with conversion rates exceeding 10%. Launch seasonal promotions or personalized campaigns during key months   (such as January, September, and prior to summer and the Christmas holiday season) to take advantage of these trends. Furthermore, consider expanding the winter skiing equipment range during the winter months to boost sales and improve conversions in lower-performing months through targeted initiatives. Additionally, implementing a loyalty program could further encourage repeat purchases and foster customer retention.  
+
+#####Enhance Customer Engagement:
+- **Optimize Content Strategy:** To reverse the trend of decreasing views and low levels of customer engagement, consider incorporating more appealing content formats, such as interactive videos. Additionally, enhance user interaction by optimizing the placement of calls to action in social media posts and blog articles, particularly during traditionally low-engagement periods (September to December). You might also focus on increasing the use of platforms like Instagram and TikTok to further enhance customer engagement.  
+
+##### Improve Customer Feedback Scores:
+- **Target Mixed and Negative Feedback:** Set up a feedback system to examine mixed and negative reviews for common issues. Create actionable plans to resolve these concerns. It may also be beneficial to reach out to dissatisfied customers to address their grievances and encourage them to re-evaluate their experience, aiming to improve the average ratings.
+
+
+
+
+
+
+
