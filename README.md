@@ -322,7 +322,7 @@ The existence of both positive and negative sentiments indicates that there are 
 
 ### Conclusion
 
-#### Goals
+#### Goals Summary
 
 ##### Boost Conversion Rates:
 
